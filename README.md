@@ -1,4 +1,4 @@
-# 🎙️ Voice Notes
+# AI Meeting Summarizer
 
 Record or upload audio, get a transcript and a short summary. Runs fully locally.
 
